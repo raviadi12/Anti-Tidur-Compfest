@@ -1,0 +1,15 @@
+{
+  "name": "agroeye",
+  "version": "1.0.0",
+  "description": "an image classifier application that was developed with flutter.\r this app classifies about the differences of leaf that build with MobileNet as it's pre-trained model.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
